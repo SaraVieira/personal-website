@@ -9,10 +9,6 @@ tags:
 description: 'Like the click baity title? Nice! Now let’s talk about the “glamorous” conference life.'
 ---
 
-### The dark side of conferences
-
-#### Like the click baity title? Nice! Now let’s talk about the “glamorous” conference life.
-
 ![](https://cdn-images-1.medium.com/max/1200/1*jrVerkXagGLFGiuioaWipA.jpeg)
 
 This photo was taken at React Native EU. No hate on them, they were amazing to me I just fucking love this photo.

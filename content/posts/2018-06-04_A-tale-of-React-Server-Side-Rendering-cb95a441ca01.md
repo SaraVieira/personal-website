@@ -9,8 +9,6 @@ tags:
 description: 'I want to start by mentioning that as of starting this I didn’t have a lot of experience with SSR besides adding styled components in a…'
 ---
 
-### A tale of React Server Side Rendering
-
 ![](https://cdn-images-1.medium.com/max/2560/0*iYHm7aDJkDKNsU5T.jpg)
 
 I want to start by mentioning that as of starting this I didn’t have a lot of experience with SSR besides adding styled components in a NextJS app.

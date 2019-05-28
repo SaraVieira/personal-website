@@ -9,8 +9,6 @@ tags:
 description: 'Many people starting out get overwhelmed by all the things happening in the React ecosystem. There’s this idea that what happens in React…'
 ---
 
-### React is just JavaScript
-
 ![](https://cdn-images-1.medium.com/max/2560/1*8yz3hkO3ynHV2qYGARynJg.jpeg)
 
 Many people starting out get overwhelmed by all the things happening in the React ecosystem. There’s this idea that what happens in [React](https://www.yld.io/speciality/react-js/) is magic and that getting started with React is super complicated unless you use tools like [create-react-app](https://github.com/facebook/create-react-app).

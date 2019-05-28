@@ -9,8 +9,6 @@ tags:
 description: 'I know it may seem weird that I am writing about Vue.js but honestly I really like Vue, I blame Sarah Drasner and her course on frontend…'
 ---
 
-### Using Vue.js with Apollo
-
 ![](https://cdn-images-1.medium.com/max/2560/1*NMzhN3iG7iQgWvu3NQfMzw.jpeg)
 
 I know it may seem weird that I am writing about [Vue.js](https://www.yld.io/speciality/vue-js/) but honestly I really like Vue, I blame Sarah Drasner and her course on frontend masters but ever since I started getting the beauty of Vue and it’s something I use sometimes, like for the original of the [ReactFest](https://reactfest.com/) Conference website… I didn’t see the irony, I promise.

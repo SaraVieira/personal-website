@@ -9,8 +9,6 @@ tags:
 description: 'A very common use case for building GraphQL API’s is to wrap Rest API’s for a better experience in the Frontend and also some more type…'
 ---
 
-### Easier GraphQL wrappers for your REST API’s
-
 ![](https://cdn-images-1.medium.com/max/2560/1*o7lUGdzcGtBtv_b1TbGFEQ.jpeg)
 
 A very common use case for building [GraphQL](https://www.yld.io/speciality/graphql/) API’s is to wrap REST API’s for a better experience in the Frontend and also some more type checking in our backend.

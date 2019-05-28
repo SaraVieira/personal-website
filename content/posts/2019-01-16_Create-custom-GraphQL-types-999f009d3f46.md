@@ -9,8 +9,6 @@ tags:
 description: 'One good thing about GraphQL is having control over how our schema and our return values from an API will look like because we can type…'
 ---
 
-### Create custom GraphQL types
-
 ![](https://cdn-images-1.medium.com/max/2560/1*9wHrewC1Dyf2Au_qEqwWcg.jpeg)
 
 One good thing about [GraphQL](https://www.yld.io/speciality/graphql/) is having control over how our schema and our return values from an API will look like. We can type everything and make sure that if we say something is a string and it’s not we will get an error.
@@ -93,7 +91,7 @@ Awesome! We created our first Scalar and used it to validate Image links.
 
 You can see the finished code here:
 
-If you wanna see more examples I suggest looking at the source code of libraries like `[graphql-scalars](https://github.com/Saeris/graphql-scalars)` and see how they handle the validation.
+If you wanna see more examples I suggest looking at the source code of libraries like [graphql-scalars](https://github.com/Saeris/graphql-scalars) and see how they handle the validation.
 
 ---
 

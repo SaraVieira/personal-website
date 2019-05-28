@@ -9,8 +9,6 @@ tags:
 description: 'I use a lot of console based debugging a lot in my javascript coding on a daily basis and you may think: Nooob, use debugger ! But the…'
 ---
 
-### Pimp Out them Logs
-
 ![](https://cdn-images-1.medium.com/max/800/1*HYkFuYWtiLtXAp23KZhTig.png)
 
 Code: [https://jsbin.com/dukocabobe/10/edit?js,console](https://jsbin.com/dukocabobe/10/edit?js,console)

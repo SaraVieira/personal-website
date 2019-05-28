@@ -74,7 +74,6 @@ module.exports = {
                         title
                         date
                         template
-                        draft
                         description
                       }
                     }

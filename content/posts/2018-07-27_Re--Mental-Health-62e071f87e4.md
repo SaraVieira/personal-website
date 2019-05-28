@@ -9,8 +9,6 @@ tags:
 description: 'A couple of months ago I spoke about something in my brain that haunted me for years, I did a talk about mental health and panic disorders…'
 ---
 
-### Re: Mental Health
-
 ![](https://cdn-images-1.medium.com/max/2560/1*ExFh2ni-DnNjVRAccxjHYg.jpeg)
 
 A couple of months ago I spoke about something in my brain that haunted me for years, I did a talk about mental health and panic disorders at Agent Conf and if you relate to this in any way here is the video:

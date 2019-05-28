@@ -10,8 +10,6 @@ description: '
 I wanna start by saying I am aware I am not famous ffs I just wanted a really deep title for this article.'
 ---
 
-### Living in the shadow of yourself — Dealing with low self-esteem in the public eye
-
 ![](https://cdn-images-1.medium.com/max/2560/1*FIWxT6PHEBMji-OczDArlQ.jpeg)
 
 _Photo by_ [_Elti Meshau_](https://unsplash.com/photos/fDxDWB7tUUE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) _on_[_Unsplash_](https://unsplash.com/search/photos/shadow?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

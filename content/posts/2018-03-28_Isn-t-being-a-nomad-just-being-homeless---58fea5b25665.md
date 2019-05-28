@@ -9,8 +9,6 @@ tags:
 description: 'shit about to get deep'
 ---
 
-### Isn’t being a nomad just being homeless ?
-
 ![](https://cdn-images-1.medium.com/max/2560/1*hpbfO5XlBHfmNWTVjZq5OA.jpeg)
 
 London during the snow “storm”

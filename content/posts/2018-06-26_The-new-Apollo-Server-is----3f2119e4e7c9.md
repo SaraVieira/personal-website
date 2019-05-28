@@ -10,8 +10,6 @@ tags:
 description: 'On the 15th I was at GraphQL Europe and I want take some time to talk about the new release by the awesome apollo team that was announced…'
 ---
 
-### The new Apollo Server is 💯
-
 ![](https://cdn-images-1.medium.com/max/2560/1*5I8Wu8EpyEKwZF8oYra3bQ.jpeg)
 
 On the 15th I was at [GraphQL Europe](https://www.graphql-europe.org/) and I want take some time to talk about the new release by the awesome apollo team that was announced there with a talk by [Peggy Rayzis](https://medium.com/u/c827782c6410) about the new Apollo Server.

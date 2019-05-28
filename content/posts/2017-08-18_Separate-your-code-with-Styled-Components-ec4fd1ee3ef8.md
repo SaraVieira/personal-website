@@ -10,8 +10,6 @@ tags:
 description: 'One thing that always kept me a little nervous about CSS in JS is that all examples included the CSS in the JS file and that was something…'
 ---
 
-### Separate your code with Styled Components
-
 ![](https://cdn-images-1.medium.com/max/2560/1*MsIjgwnnUe3vtgXDb6WZGA.png)
 
 One thing that always kept me a little nervous about CSS in JS is that all examples included the CSS in the JS file and that was something I never liked.

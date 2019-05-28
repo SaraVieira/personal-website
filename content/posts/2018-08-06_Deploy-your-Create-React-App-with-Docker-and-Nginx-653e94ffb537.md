@@ -10,8 +10,6 @@ tags:
 description: 'First thank you to Simona Cotin and Super Diana for answering the noob docker and nginx questions and reminding me that nginx is better for…'
 ---
 
-### Deploy your Create React App with Docker and Nginx
-
 ![](https://cdn-images-1.medium.com/max/2560/1*j3VSP68hP2R8NyDJS5J47A.jpeg)
 
 > First thank you to [Simona Cotin](https://medium.com/u/6379929b352) and [Super Diana](https://medium.com/u/22fa2f6fc2af) for answering the noob docker and nginx questions and reminding me that nginx is better for static files than node. Also thank you to the amazing humans who built a [Docker extension](https://github.com/Microsoft/vscode-docker) for VSCode.
